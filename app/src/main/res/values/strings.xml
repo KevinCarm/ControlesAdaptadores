@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="TextView" >Selecciona un nombre</string>
+    <string-array name="paises">
+        <item>Mexico</item>
+        <item>Japon</item>
+        <item>USA</item>
+        <item>Cuba</item>
+        <item>Chile</item>
+    </string-array>
+</resources>
